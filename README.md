@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm RAJAN R</h1>
 <h3 align="center">Passionate for innovation, A boy trying to figure-out stuff!!</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=karthik242002&label=Profile%20views&color=0e75b6&style=flat" alt="Rajan-007" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Rajan-007&label=Profile%20views&color=0e75b6&style=flat" alt="Rajan-007" /> </p>
 <a href="R.RAJAN-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajan&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="karthik242002 S" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajan-007&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Rajan-007" align="right" />
 </a>
 
 - 👋 Hi, I’m @Rajan-007
@@ -77,19 +77,19 @@
   </tr>
    <tr>
     <td align="center" width="96">
-      <a href="#vmmuthu31">
+      <a href="#Rajan-007">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="48" height="48" alt="TailWind" />
       </a>
       <br>TailWind
     </td>
     <td align="center" width="96">
-      <a href="#vmmuthu31">
+      <a href="#Rajan-007">
         <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
       </a>
       <br>Bash
     </td>
     <td align="center" width="96">
-      <a href="#vmmuthu31">
+      <a href="#Rajan-007">
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
       </a>
       <br>Figma
@@ -101,7 +101,7 @@
       <br>Material ui
     </td>
     <td align="center" width="96">
-      <a href="#vmmuthu31">
+      <a href="#Rajan-007">
         <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_solidity_icon_130156.png" width="48" height="48" alt="Solidity" />
       </a>
       <br>Solidity
@@ -119,13 +119,13 @@
       <br>Git
     </td>
           <td align="center" width="96"> 
-      <a href="#vmmuthu31" >
+      <a href="#Rajan-007" >
         <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="48" height="48" alt="Next JS" />
       </a>
       <br>Next JS
     </td>
              <td align="center" width="96"> 
-      <a href="#vmmuthu31" >
+      <a href="#Rajan-007" >
         <img src="https://brandeps.com/logo-download/G/Google-Cloud-logo-vector-01.svg" width="48" height="48" alt="Google Cloud" />
       </a>
       <br>G Cloud
