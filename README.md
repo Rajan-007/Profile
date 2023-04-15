@@ -75,20 +75,6 @@
       <br>MongoDB
     </td>
   </tr>
-  
-  
-    <td align="center"  width="96">
-      <a href="#Rajan-007">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/480px-WordPress_blue_logo.svg.png" width="48" height="48" alt="WordPress" />
-      </a>
-      <br>WordPress
-    </td>
-    <td align="center" width="96">
-      <a href="#Rajan-007" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
    <tr>
     <td align="center" width="96">
       <a href="#vmmuthu31">
@@ -120,11 +106,17 @@
       </a>
       <br>Solidity
     </td>
-     <td align="center" width="96"> 
-      <a href="#vmmuthu31" >
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
+       <td align="center"  width="96">
+      <a href="#Rajan-007">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/480px-WordPress_blue_logo.svg.png" width="48" height="48" alt="WordPress" />
       </a>
-      <br>Redux
+      <br>WordPress
+    </td>
+    <td align="center" width="96">
+      <a href="#Rajan-007" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
     </td>
           <td align="center" width="96"> 
       <a href="#vmmuthu31" >
